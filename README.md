@@ -9,7 +9,7 @@ You can access this services from public with load balancer, and this IP http://
 
 ## Running Command
 
-Run NodeJS Program
+Install or Upgrade
 ```bash
 helm upgrade  --install be-golang-service ./helm-golang --values ./helm-golang/values.yaml -n pintu
 ```
